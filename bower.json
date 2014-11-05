@@ -5,7 +5,7 @@
     "3rfan <eeb@massiveart.com>"
   ],
   "description": "Extracted Bootstrap 3 Grid-System",
-  "main": "main.css",
+  "main": "main.scss",
   "keywords": [
     "Bootstrap3",
     "Grid",
@@ -16,8 +16,6 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
