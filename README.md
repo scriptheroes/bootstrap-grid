@@ -1,7 +1,7 @@
 bootstrap-grid
 ==============
 
-Do you just want Bootstrap's grid? You can find it here with an entirely self-contained files written in Sass. Have fun.
+Do you _just_ want Bootstrap's grid? You can find it here with an entirely self-contained files written in Sass. Have fun.
 
 
 # Sass
